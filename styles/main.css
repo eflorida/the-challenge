@@ -24,6 +24,8 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  background: rgb(14,52,69);
+  background: linear-gradient(125deg, rgba(14,52,69,1) 0%, rgba(53,97,121,1) 85%, rgba(87,132,157,1) 100%) no-repeat center center fixed;
 }
 b,
 strong,
@@ -62,4 +64,15 @@ img.next-image {
 
 .nav-line .nav-link {
   color: #69778c;
+}
+
+aside {
+  background: rgba(256, 256, 256, 0.1);
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+}
+
+.nx-prose aside p {
+  margin: 0;
 }
