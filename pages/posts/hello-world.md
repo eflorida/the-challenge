@@ -1,7 +1,6 @@
 ---
 title: Hello, World
 date: 2022/12/06
-description: Well, here we are...
 tag:
 author: Erik
 ---

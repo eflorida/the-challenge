@@ -1,7 +1,6 @@
 ---
 title: The Challenge
 date: 2022/12/06
-description: Well the plan was inspired by...
 tag:
 author: Erik
 ---

@@ -58,8 +58,19 @@ img.next-image {
   margin: 0;
 }
 
-.prose a {
-  color: #0074de;
+.nx-container.nx-prose a {
+  color: #cfff00;
+  opacity: 0.7;
+  text-decoration: none;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.nx-container.nx-prose a:hover, .nx-container.nx-prose a:active {
+  opacity: 1;
+}
+
+.nx-container > div {
+  border-bottom: 1px solid #69778c;
 }
 
 .nav-line .nav-link {
