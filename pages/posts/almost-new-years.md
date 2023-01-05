@@ -5,7 +5,7 @@ tag:
 author: Erik
 ---
 
-Early morning in the living room, water and puppy next to me, coffee soon.
+<small>Early morning in the living room, water and puppy next to me, coffee soon.</small>
 
 ### It's almost time to get started!
 

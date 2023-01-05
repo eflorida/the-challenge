@@ -5,11 +5,10 @@ tag:
 author: Erik
 ---
 
-Post dog walk in the rain, old fashioned and Kygo + Gryffin on the stereo.
+<small>Post dog walk in the rain, old fashioned and Kygo + Gryffin on the stereo.</small>
 
-### Challenge 1 - Jan 01 - Feb 09
-
-## -- Read for at least 30 minutes per day --
+### Read for at least 30 minutes per day
+#### Jan 01 - Feb 09
 
 Welcome, 2023! Time to start challenge 1! I wanted to start with reading because it's one of those everyday things I really wish I did more of, so why not work on making it a daily habit. I enjoy reading and already own a number of books I've been meaning ot read, but I have just not been in the habit.
 

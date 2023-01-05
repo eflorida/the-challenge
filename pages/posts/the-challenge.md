@@ -1,11 +1,11 @@
 ---
 title: The Challenge
-date: 2022/12/06
+date: 2022/12/07
 tag:
 author: Erik
 ---
 
-Sitting in the living room, bubbles in the glass, analog tunes coming through the Kef R3 speakers.
+<small>Sitting in the living room, bubbles in the glass, analog tunes coming through the Kef R3 speakers.</small>
 
 ### So what is the challenge?
 

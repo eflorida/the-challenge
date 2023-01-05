@@ -5,7 +5,7 @@ tag:
 author: Erik
 ---
 
-Mid-morning in the living room, beermosa with Firestone 805 and 90's pop-rock playlist.
+<small>Mid-morning in the living room, beermosa with Firestone 805 and 90's pop-rock playlist.</small>
 
 ### It's the last day of 2022!
 

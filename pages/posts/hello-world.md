@@ -5,7 +5,7 @@ tag:
 author: Erik
 ---
 
-Well, here we are. I’m spinning Black Pumas on the record player and drinking Mumm Napa Brut.
+<small>Well, here we are. I’m spinning Black Pumas on the record player and drinking Mumm Napa Brut.</small>
 
 <aside>
 If you aren’t a programmer the title may not be as obvious, but it’s the standard first thing you learn when learning a new language - how to output “Hello, World” using the language. One of many little quirks I appreciate about the history and industry that is software engineering. So it seemed like a good way to start here.
